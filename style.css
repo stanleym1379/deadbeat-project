@@ -3,4 +3,9 @@
 }
   h1{
       font-family: 'Press Start 2P';
+      
   }
+body {
+  height:900px;
+  background:linear-gradient(red, black);
+}
