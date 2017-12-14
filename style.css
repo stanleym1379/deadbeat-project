@@ -11,5 +11,8 @@ body {
   background:linear-gradient(red, black);
 
 }
-
+p {
+  margin-top:100px;
+  font-family: 'Press Start 2p';
+}
 
