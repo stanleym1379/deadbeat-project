@@ -3,6 +3,7 @@
 }
   h1{
       font-family: 'Press Start 2P';
+      text-align:center
 
       
   }
@@ -12,7 +13,29 @@ body {
 
 }
 p {
-  margin-top:100px;
-  font-family: 'Press Start 2p';
+  margin-top:100px;  
+  font-family: 'Press Start 2P';
+  text-align:center;
+  color:white;
+}
+
+li{
+  font-family: 'Press Start 2P';
+  color:white;
+}
+
+span{
+  font-family: 'Press Start 2P';
+  color:white;  
+}
+
+img{
+  margin-left:290px
+    
+}
+#vote
+input{
+  font-family:'Press Start 2P';
+  color:white;
 }
 
