@@ -1,18 +1,37 @@
 #title{
     text-align:center;
 }
-  h1{
-      font-family: 'Press Start 2P';
+h1{
+  color:white;
+  font-family: 'Press Start 2P';
+  font-size:25px
 
       
   }
 body {
-  height:900px;
-  background:linear-gradient(red, black);
+  width:100%;
+  height:100%;
+  background:linear-gradient(red,black);
 
 }
 p {
+  font-size:12px;
+  display:block;
   margin-top:100px;
   font-family: 'Press Start 2p';
+  color:white;
 }
+#char{
+  font-size:12px;
+  font-family: 'Press Start 2p';
+  color:white;
+}
+#logo{
+  position:absolute;
+  float:left;
 
+}
+span{
+  font-family: 'Press Start 2p';
+  color:white;
+}
