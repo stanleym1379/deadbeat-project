@@ -48,8 +48,8 @@ span {
 
 input {
   font-family: 'Press Start 2P';
-  text-align:center;
   color:black;
+  float:right;
 }
 
 #char {
@@ -70,8 +70,14 @@ span {
 }
 h3{
   margin:auto;
-  text-align:center;
+  text-align:right;
  
   font-size:15px;
   font-family:'Press Start 2p';
+  color:white;
+}
+h4{
+  color:white;
+  font-family: 'Press Start 2p';
+  text-align:center;
 }
