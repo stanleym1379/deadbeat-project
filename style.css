@@ -66,6 +66,7 @@ input {
 
 .logo {
   position: absolute;
+  
 }
 
 span {
@@ -89,3 +90,6 @@ h4{
   text-align:center;
 }
 
+#main{
+ text-align:center;
+}
